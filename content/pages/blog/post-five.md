@@ -5,10 +5,6 @@ colors: colors-b
 date: '2025-03-08'
 author: content/data/team/doris-soto.json
 excerpt: 'Eu sou Anita Machado, Analista de Dados e Soluções Digitais.'
-featuredImage:
-  type: ImageBlock
-  url: /images/ai-generated-9087010_1280.jpg
-  altText: Post thumbnail image
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
