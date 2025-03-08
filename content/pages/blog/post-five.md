@@ -4,7 +4,7 @@ title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-b
 date: '2025-03-08'
 author: content/data/team/doris-soto.json
-excerpt: ' | ANALISTA DE DADOS | ANALISTA DE SOLUÇÕES DIGITAIS | GERENTE DE PROJETOS |'
+excerpt: Eu souAnita Machado
 featuredImage:
   type: ImageBlock
   url: /images/ai-generated-9087010_1280.jpg
