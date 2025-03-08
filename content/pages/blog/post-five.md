@@ -4,7 +4,7 @@ title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-b
 date: '2025-03-08'
 author: content/data/team/doris-soto.json
-excerpt: Eu souAnita Machado
+excerpt: Eu sou Anita Machado
 featuredImage:
   type: ImageBlock
   url: /images/ai-generated-9087010_1280.jpg
