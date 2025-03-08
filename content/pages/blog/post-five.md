@@ -12,7 +12,7 @@ backgroundImage:
   backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 44
+  opacity: 49
 ---
 Eu sou Anita Machado,
 
