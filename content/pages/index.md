@@ -69,7 +69,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Alguns dos meus posts
     showFeaturedImage: false
     actions:
       - type: Link
