@@ -10,7 +10,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/ai-generated-9087010_1280.jpg
   backgroundSize: auto
-  backgroundPosition: center
+  backgroundPosition: bottom
   backgroundRepeat: repeat
   opacity: 30
 addTitleSuffix: true
