@@ -15,7 +15,7 @@ backgroundImage:
   opacity: 49
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/ai-generated-9087010_1280.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
