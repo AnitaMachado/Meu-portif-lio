@@ -73,7 +73,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: VEJA MAIS
         url: /blog
     posts:
       - content/pages/blog/post-six.md
