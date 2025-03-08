@@ -35,6 +35,9 @@ sections:
         borderWidth: 0
     type: HeroSection
     actions: []
+    text: >
+      E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
+      através de alguns dos meus projetos.
   - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
