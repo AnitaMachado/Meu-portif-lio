@@ -3,16 +3,16 @@ type: PostLayout
 title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-a
 date: '2025-03-08'
-author: content/data/team/doris-soto.json
 excerpt: ''
 bottomSections: []
 backgroundImage:
   type: BackgroundImage
   url: /images/ai-generated-9087010_1280.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 60
+  backgroundRepeat: repeat
+  opacity: 40
+addTitleSuffix: true
 ---
 Eu sou Anita Machado,
 
