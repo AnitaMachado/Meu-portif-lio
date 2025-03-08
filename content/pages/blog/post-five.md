@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-b
-date: '2024-05-08'
+date: '0202-03-08'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
