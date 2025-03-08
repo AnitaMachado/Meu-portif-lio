@@ -92,4 +92,5 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+socialImage: /images/ai-generated-9087010_1280.jpg
 ---
