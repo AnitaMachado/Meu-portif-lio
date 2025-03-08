@@ -77,4 +77,6 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
-   Este site foi desenvolvido com muito carinho para te apresentar um pouco de tecnologia através de alguns dos meus projetos.
+Eu sou Anita Machado,
+
+E este site foi desenvolvido com muito carinho para te apresentar um pouco de tecnologia através de alguns dos meus projetos.
