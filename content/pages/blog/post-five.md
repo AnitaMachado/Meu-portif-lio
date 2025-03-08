@@ -15,7 +15,6 @@ backgroundImage:
   opacity: 49
 featuredImage:
   type: ImageBlock
-  url: /images/ai-generated-9087010_1280.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
