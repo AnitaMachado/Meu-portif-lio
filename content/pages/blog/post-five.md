@@ -12,7 +12,7 @@ backgroundImage:
   backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: repeat
-  opacity: 13
+  opacity: 30
 addTitleSuffix: true
 ---
 Eu sou Anita Machado,
