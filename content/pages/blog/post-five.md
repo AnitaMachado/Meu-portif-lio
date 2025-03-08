@@ -14,7 +14,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 60
 socialImage: /images/ai-generated-9087010_1280.jpg
-addTitleSuffix: true
+addTitleSuffix: false
 ---
 Eu sou Anita Machado,
 
