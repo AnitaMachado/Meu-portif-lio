@@ -6,6 +6,13 @@ date: '2025-03-08'
 author: content/data/team/doris-soto.json
 excerpt: ''
 bottomSections: []
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Eu sou Anita Machado,
 
