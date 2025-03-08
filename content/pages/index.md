@@ -43,7 +43,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: VEJA MAIS
         url: /projects
     showDate: false
     showDescription: true
