@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-b
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
