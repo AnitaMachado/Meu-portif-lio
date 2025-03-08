@@ -9,7 +9,7 @@ bottomSections: []
 backgroundImage:
   type: BackgroundImage
   url: /images/ai-generated-9087010_1280.jpg
-  backgroundSize: contain
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 49
