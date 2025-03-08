@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/ai-generated-9087010_1280.jpg
   backgroundSize: contain
   backgroundPosition: center
-  backgroundRepeat: repeat
+  backgroundRepeat: repeat-x
   opacity: 49
 ---
 Eu sou Anita Machado,
