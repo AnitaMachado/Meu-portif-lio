@@ -38,7 +38,7 @@ sections:
     text: >
       E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
       através de alguns dos meus projetos.
-  - colors: colors-a
+  - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
     actions:
