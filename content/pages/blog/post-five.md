@@ -4,7 +4,7 @@ title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-b
 date: '2025-03-08'
 author: content/data/team/doris-soto.json
-excerpt: Analista de Dados e Soluções Digitais.
+excerpt: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
