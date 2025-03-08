@@ -1,10 +1,11 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Anita",
+    "lastName": "Machado",
     "image": {
         "type": "ImageBlock",
         "url": "/images/about.jpg",
         "altText": "Doris Soto photo"
-    }
+    },
+    "bio": ""
 }
