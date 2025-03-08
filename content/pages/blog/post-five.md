@@ -3,7 +3,6 @@ type: PostLayout
 title: 'OLÁ, SEJA BEM VINDO!'
 colors: colors-a
 date: '2025-03-08'
-author: content/data/team/doris-soto.json
 excerpt: ''
 bottomSections: []
 backgroundImage:
