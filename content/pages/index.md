@@ -127,7 +127,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-        borderRadius: none
+        borderRadius: small
         margin:
           - mr-5
           - ml-5
