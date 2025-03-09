@@ -130,7 +130,7 @@ sections:
         borderRadius: small
         margin:
           - mr-10
-          - ml-5
+          - ml-10
         borderWidth: 1
         borderColor: border-(--theme-primary)
         borderStyle: double
