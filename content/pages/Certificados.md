@@ -182,6 +182,7 @@ sections:
         borderColor: border-(--theme-dark)
         margin:
           - mr-5
+          - ml-5
   - type: FeaturedItemsSection
     title: ''
     items:
