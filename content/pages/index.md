@@ -105,15 +105,6 @@ sections:
         icon: linkedin
         iconPosition: right
         elementId: ''
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: >-
-          https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
-        showIcon: true
-        icon: linkedin
-        iconPosition: right
-        elementId: ''
     projects: []
     colors: colors-f
     variant: variant-c
