@@ -36,8 +36,8 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: left"><span style="color: Blue; font-size: 48px;
-      font-weight: bold; text-shadow: 0.2px 0.2px 0.2px white;">
+      <div style="text-align: left"><span style="color: #33A078; font-size:
+      48px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px white;">
           OLÁ, SEJA BEM-VINDO!
       </span>
 
