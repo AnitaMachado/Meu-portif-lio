@@ -25,7 +25,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
-  title: PROJETOS
+  title: '  '
 topSections: []
 bottomSections:
   - type: ContactSection
