@@ -202,7 +202,7 @@ sections:
         width: narrow
         padding:
           - pt-5
-          - pb-24
+          - pb-10
           - pl-96
           - pr-0
         textAlign: right
