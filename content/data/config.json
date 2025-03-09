@@ -113,5 +113,6 @@
                 ]
             }
         }
-    }
+    },
+    "favicon": "/images/2.png"
 }
