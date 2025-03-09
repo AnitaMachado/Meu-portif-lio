@@ -41,8 +41,8 @@ sections:
           OLÁ, SEJA BEM-VINDO!
       </span>
 
-      <div style="font-size: 28px; font-weight: 650;">
-          Eu sou Anita Machado, Analista de Dados e Soluções Digitais.
+      <div style="font-size: 28px">
+          Eu sou <"style=font-weight: 650"> Anita Machado</>, Analista de Dados e Soluções Digitais.
       </div>
 
       <div style="font-size: 12px; font-style: italic;">
