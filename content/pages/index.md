@@ -74,7 +74,7 @@ sections:
       - type: ImageBlock
         url: /images/icons8-power-bi (2).svg
         altText: PowerBI
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     colors: colors-f
     spacing: 10
