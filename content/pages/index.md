@@ -101,7 +101,7 @@ sections:
         textAlign: center
         borderColor: border-(--theme-light)
         borderRadius: none
-  - colors: colors-e
+  - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
     actions:
