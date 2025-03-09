@@ -133,7 +133,7 @@ sections:
           - ml-5
         borderWidth: 1
         borderColor: border-(--theme-primary)
-        borderStyle: dotted
+        borderStyle: dashed
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
     subtitle: ''
