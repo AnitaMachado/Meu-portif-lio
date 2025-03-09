@@ -350,6 +350,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    subtitle: CURSOS LIVRES
 metaTags: []
 colors: colors-a
 socialImage: /images/ai-generated-9087010_1280.jpg
