@@ -6,4 +6,8 @@ date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: ''
 bottomSections: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
