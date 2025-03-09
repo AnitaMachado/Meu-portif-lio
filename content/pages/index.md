@@ -88,7 +88,7 @@ sections:
         label: Dax
         url: ''
       - type: Label
-        label: Swift
+        label: Trello
         url: ''
     colors: colors-f
     elementId: ''
