@@ -19,7 +19,7 @@ sections:
           - pr-4
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: GRADUAÇÃO
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
