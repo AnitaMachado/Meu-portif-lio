@@ -131,7 +131,7 @@ sections:
         margin:
           - mr-5
           - ml-5
-        borderWidth: 8
+        borderWidth: 1
         borderColor: border-(--theme-primary)
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
