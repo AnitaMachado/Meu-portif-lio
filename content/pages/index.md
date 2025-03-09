@@ -94,7 +94,7 @@ sections:
         textAlign: left
     title: Alguns dos meus posts
   - type: FeaturedProjectsSection
-    subtitle: Alguns dos meus posts 2
+    subtitle: Alguns dos meus posts
     actions:
       - type: Link
         label: See all projects
