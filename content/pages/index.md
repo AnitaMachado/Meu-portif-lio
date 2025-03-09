@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Anita Machado
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/ai-generated-9087010_1280.jpg
