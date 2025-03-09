@@ -68,4 +68,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+socialImage: /images/ai-generated-9087010_1280.jpg
 ---
