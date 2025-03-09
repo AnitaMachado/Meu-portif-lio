@@ -248,7 +248,7 @@ sections:
           - pr-4
         borderWidth: 1
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: I'm Fast
