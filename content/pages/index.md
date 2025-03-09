@@ -171,7 +171,7 @@ sections:
         padding:
           - pt-28
           - pb-28
-          - pl-5
+          - pl-3
           - pr-5
         flexDirection: row
         textAlign: left
