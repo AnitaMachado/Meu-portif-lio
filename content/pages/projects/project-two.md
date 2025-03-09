@@ -17,4 +17,11 @@ media:
   type: ImageBlock
   url: /images/Captura de tela 2025-03-09 130107.png
   altText: ''
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
