@@ -82,7 +82,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "SOBRE",
                 "altText": "",
                 "url": "/https://anitamachado.netlify.app/info/",
                 "showIcon": false,
