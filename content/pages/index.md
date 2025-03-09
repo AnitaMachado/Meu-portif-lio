@@ -46,7 +46,7 @@ sections:
       </div>
 
       <div style="font-size: 12px; font-style: italic;">
-          E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia através de alguns dos meus projetos e experiências.
+          E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia</br> através de alguns dos meus projetos e experiências.
       </div></div>
 
   - colors: colors-d
