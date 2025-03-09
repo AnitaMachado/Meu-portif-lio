@@ -92,6 +92,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: Alguns dos meus posts
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
