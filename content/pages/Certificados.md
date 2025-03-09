@@ -143,7 +143,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: ESPECIALIZAÇÃO
         subtitle: ''
         text: ''
         actions: []
