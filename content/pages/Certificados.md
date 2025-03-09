@@ -134,7 +134,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-5
+          - pt-20
           - pb-5
           - pl-5
           - pr-5
