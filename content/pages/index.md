@@ -88,10 +88,10 @@ sections:
         label: Dax
         url: ''
       - type: Label
-        label: Trello
+        label: Kanban
         url: ''
       - type: Label
-        label: Kanban
+        label: Trello
         url: ''
       - type: Label
         label: SAP S/4Hanna
