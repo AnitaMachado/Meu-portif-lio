@@ -32,7 +32,7 @@ sections:
         altText: ''
         caption: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO
         elementId: ''
-    colors: colors-f
+    colors: colors-a
     spacing: 20
     columns: 4
     aspectRatio: '4:3'
