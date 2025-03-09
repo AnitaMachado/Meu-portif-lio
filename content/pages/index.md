@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 40
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-d
     backgroundSize: full
     title: ''
     subtitle: ''
