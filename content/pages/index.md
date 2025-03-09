@@ -138,5 +138,5 @@ sections:
         textAlign: left
     title: 'Confira também '
 socialImage: /images/ai-generated-9087010_1280.jpg
-addTitleSuffix: true
+addTitleSuffix: false
 ---
