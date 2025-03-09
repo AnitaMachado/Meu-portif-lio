@@ -82,7 +82,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: '2'
-        subtitle: SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS
+        subtitle: >-
+          Superior de Tecnologia em Processos
+          Gerenciais                                  
         text: ''
         featuredImage:
           type: ImageBlock
