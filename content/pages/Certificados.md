@@ -338,7 +338,7 @@ sections:
     colors: colors-d
     columns: 4
     spacingX: 16
-    spacingY: 16
+    spacingY: 20
     elementId: ''
     styles:
       self:
