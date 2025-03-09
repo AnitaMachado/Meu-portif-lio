@@ -135,7 +135,7 @@ sections:
         borderColor: border-(--theme-primary)
         borderStyle: double
     subtitle: MEUS PRINCIPAIS PROJETOS
-    title: Meus principais projetos
+    title: ''
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
