@@ -67,13 +67,6 @@ sections:
         title: I'm Focused
         subtitle: ''
         text: ''
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
