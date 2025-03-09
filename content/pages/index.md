@@ -94,7 +94,7 @@ sections:
         textAlign: left
     title: Alguns dos meus posts
   - type: FeaturedProjectsSection
-    subtitle: Alguns dos meus posts
+    subtitle: ''
     actions:
       - type: Link
         label: Como a IA pode ajudar no trabalh o do Analista de Dados
