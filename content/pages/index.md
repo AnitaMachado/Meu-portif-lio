@@ -151,7 +151,7 @@ sections:
     variant: variant-d
     elementId: ''
     recentCount: 3
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     showFeaturedImage: false
