@@ -36,9 +36,12 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: center">E este site foi cuidadosamente
-      desenvolvido para te apresentar tecnologia através de alguns dos meus
-      projetos.</div>
+      <div style="text-align: left">```
+
+      <sup>E este site foi cuidadosamente desenvolvido para te apresentar
+      tecnologia através de alguns dos meus projetos.</sup>
+
+      ```</div>
 
   - colors: colors-d
     type: FeaturedProjectsSection
