@@ -73,7 +73,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/icons8-power-bi (2).svg
-        altText: altText of the image
+        altText: PowerBI
         caption: Caption of the image
         elementId: ''
     colors: colors-f
