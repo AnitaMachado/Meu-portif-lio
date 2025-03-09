@@ -55,7 +55,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+        title: ''
         subtitle: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         text: ''
         featuredImage:
