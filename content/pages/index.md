@@ -62,39 +62,6 @@ sections:
           - pl-4
           - pr-4
         borderWidth: 1
-  - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/icons8-ms-excel (5).svg
-        altText: Excel
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/icons8-power-bi (2).svg
-        altText: PowerBI
-        caption: ''
-        elementId: ''
-    colors: colors-f
-    spacing: 10
-    columns: 6
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-5
-          - pb-5
-          - pl-4
-          - pr-4
-        textAlign: center
-        borderRadius: none
-        borderColor: border-(--theme-primary)
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
