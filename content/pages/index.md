@@ -90,7 +90,7 @@ sections:
     spacing: 10
     columns: 6
     aspectRatio: auto
-    showCaption: true
+    showCaption: false
     enableHover: false
     elementId: ''
     styles:
