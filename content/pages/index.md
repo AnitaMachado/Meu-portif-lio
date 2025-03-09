@@ -173,7 +173,7 @@ sections:
         padding:
           - pt-10
           - pb-10
-          - pl-10
+          - pl-11
           - pr-1
         flexDirection: col
         textAlign: left
