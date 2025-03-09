@@ -153,7 +153,7 @@ sections:
     recentCount: 3
     showDate: false
     showAuthor: false
-    showExcerpt: true
+    showExcerpt: false
     showFeaturedImage: false
     showReadMoreLink: true
     styles:
