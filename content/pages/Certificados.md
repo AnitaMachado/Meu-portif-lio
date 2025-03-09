@@ -50,7 +50,7 @@ sections:
           - pr-5
         textAlign: left
         margin:
-          - mr-10
+          - mr-20
 metaTags: []
 colors: colors-a
 socialImage: /images/ai-generated-9087010_1280.jpg
