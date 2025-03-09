@@ -28,9 +28,7 @@ projectFeed:
   title: '  '
 topSections:
   - type: QuoteSection
-    quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
+    quote: ''
     name: Este site esta em processo de construção (reestruturação)
     title: Product Marketing Manager at Acme
     colors: colors-f
