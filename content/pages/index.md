@@ -137,7 +137,7 @@ sections:
     subtitle: ''
     title: ''
   - type: RecentPostsSection
-    subtitle: Posts
+    subtitle: ''
     actions:
       - type: Link
         label: See all posts
