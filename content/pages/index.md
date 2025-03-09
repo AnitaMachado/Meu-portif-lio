@@ -64,7 +64,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/logo1.svg
