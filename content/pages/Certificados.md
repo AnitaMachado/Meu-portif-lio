@@ -211,16 +211,7 @@ sections:
           altText: ''
           caption: ''
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
