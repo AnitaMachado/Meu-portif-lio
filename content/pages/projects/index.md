@@ -30,7 +30,7 @@ topSections:
   - type: QuoteSection
     quote: ''
     name: Este site esta em processo de construção (reestruturação)
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
