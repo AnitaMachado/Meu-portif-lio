@@ -176,7 +176,7 @@ sections:
           - pb-10
           - pl-0
           - pr-0
-        flexDirection: row
+        flexDirection: col
         textAlign: left
         margin:
           - ml-96
