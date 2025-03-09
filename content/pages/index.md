@@ -135,7 +135,7 @@ sections:
       - content/pages/projects/project-one.md
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         padding:
           - pt-16
