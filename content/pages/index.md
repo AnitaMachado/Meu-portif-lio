@@ -145,7 +145,7 @@ sections:
           - pb-12
           - pl-10
           - pr-10
-        textAlign: left
+        textAlign: center
         borderRadius: small
         margin:
           - mr-5
