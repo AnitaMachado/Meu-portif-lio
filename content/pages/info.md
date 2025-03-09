@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: SOBRE
+title: Sobre
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
