@@ -103,9 +103,6 @@ sections:
         label: Microsoft PowerPoint
         url: ''
       - type: Label
-        label: Microsoft SharePoint
-        url: ''
-      - type: Label
         label: Mapeamento de processos
         url: ''
       - type: Label
