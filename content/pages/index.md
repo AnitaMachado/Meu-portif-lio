@@ -189,7 +189,7 @@ sections:
         style: secondary
         elementId: ''
     projects: []
-    colors: colors-d
+    colors: colors-e
     variant: variant-b
     elementId: ''
     showDate: false
