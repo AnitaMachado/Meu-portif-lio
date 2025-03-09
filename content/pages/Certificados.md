@@ -82,12 +82,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    subtitle: 'Contact:'
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-    colors: colors-f
-    variant: variant-a
   - type: DividerSection
     styles:
       self:
