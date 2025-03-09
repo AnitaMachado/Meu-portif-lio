@@ -196,7 +196,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Engenharia de dados - XP Educação.jpg
-          altText: Item image
+          altText: ''
           caption: Caption of the image
           elementId: ''
         actions:
