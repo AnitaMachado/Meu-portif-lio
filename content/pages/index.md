@@ -127,6 +127,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+        borderRadius: none
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
     subtitle: ''
