@@ -139,13 +139,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      <p>
-        <span style="color: WHITE; font-size: 30px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">
-          ALGUNS POSTS
-        </span>
-        <img src="https\://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="LinkedIn" 
-             style="width: 24px; height: 24px; margin-left: 10px; vertical-align: middle;">
-      </p>
+
 
     actions:
       - type: Button
