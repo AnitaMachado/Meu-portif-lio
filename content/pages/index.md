@@ -37,12 +37,12 @@ sections:
     actions: []
     text: |+
       <div style="text-align: left"><a>
-        <span style="color: green; font-size: 28px;">
+        <span style="color: green; font-size: 48px;">
           OLÁ, SEJA BEM-VINDO!
         </span>
       </a>
       <a>
-        <div style="font-size: 18px;">
+        <div style="font-size: 28px;">
           Eu sou Anita Machado, Analista de Dados e Soluções Digitais.
         </div>
         <div style="font-size: 12px; font-style: italic;">
