@@ -70,16 +70,6 @@
         "type": "Footer",
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "HOME",
-                "altText": "Projects",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "HOME",
                 "altText": "",
