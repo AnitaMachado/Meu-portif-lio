@@ -41,7 +41,7 @@ sections:
           SEJA BEM-VINDO!
       </span>
 
-      <div style="font-size: 25px;">
+      <div style="font-size: 20px;">
           Eu sou <span style="font-size: 28px; font-weight: 700; color: #E0FFFF; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
       </div>
 
