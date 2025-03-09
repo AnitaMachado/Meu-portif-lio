@@ -48,7 +48,7 @@ sections:
           - pb-12
           - pl-5
           - pr-5
-        textAlign: center
+        textAlign: left
 metaTags: []
 colors: colors-a
 socialImage: /images/ai-generated-9087010_1280.jpg
