@@ -49,17 +49,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
