@@ -142,10 +142,9 @@ sections:
       <p>
         <span style="color: WHITE; font-size: 30px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">
           ALGUNS POSTS
-        <svg xmlns="https\://icons8.com.br/icon/447/linkedin="width: 4px; height: 24px; margin-left: 10px; vertical-align: middle;" viewBox="0 0 34 34">
-          <rect fill="#0077B5" width="34" height="34" rx="5"></rect>
-          <path d="M10.5 14h3V24h-3zm2-3h-2c-.7 0-1-.3-1-1a1 1 0 0 1 1-1h2c.7 0 1 .3 1 1a1 1 0 0 1-1 1zm4.5 3h3v1.2c.4-.8 1.4-1.2 2.4-1.2h.2c2 0 3.4 1.2 3.4 3.8v6h-3v-5c0-1-.4-2-1.4-2-1 0-1.6.8-1.6 2v5h-3z" fill="#FFF"></path>
-        </svg></span>
+        </span>
+        <img src="https\://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="LinkedIn" 
+             style="width: 24px; height: 24px; margin-left: 10px; vertical-align: middle;">
       </p>
 
     actions:
