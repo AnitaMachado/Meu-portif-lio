@@ -149,7 +149,7 @@ sections:
           - pt-28
           - pb-36
           - pl-5
-          - pr-4
+          - pr-5
         textAlign: center
 metaTags: []
 colors: colors-a
