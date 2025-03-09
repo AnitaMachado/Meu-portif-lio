@@ -199,7 +199,7 @@ sections:
           - pt-7
           - pb-10
           - pl-11
-          - pr-1
+          - pr-5
         flexDirection: col
         textAlign: right
         margin:
