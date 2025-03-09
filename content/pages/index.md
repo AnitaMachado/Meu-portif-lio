@@ -104,6 +104,7 @@ sections:
           - pr-4
         textAlign: center
         borderRadius: none
+        borderColor: border-(--theme-primary)
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
