@@ -25,7 +25,7 @@ sections:
           - pb-10
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
