@@ -39,7 +39,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    title: SOBRE
+    title: ''
   - type: DividerSection
     styles:
       self:
