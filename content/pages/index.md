@@ -49,6 +49,18 @@ sections:
           E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia<br> através de alguns dos meus projetos e experiências.
       </div></div>
 
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        borderWidth: 1
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
