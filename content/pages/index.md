@@ -197,7 +197,7 @@ sections:
         flexDirection: col
         textAlign: right
         margin:
-          - ml-96
+          - ml-0
           - mr-0
 addTitleSuffix: true
 ---
