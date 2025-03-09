@@ -65,34 +65,6 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Meus principais projetos
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Alguns dos meus posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: VEJA MAIS
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
-    title: Alguns dos meus posts
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
