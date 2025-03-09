@@ -179,6 +179,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+        borderColor: border-(--theme-dark)
   - type: FeaturedItemsSection
     title: ''
     items:
