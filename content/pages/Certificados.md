@@ -211,7 +211,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Arquitetura de dados - XP Educação.jpg
-          altText: Item image
+          altText: ''
           caption: Caption of the image
           elementId: ''
         actions:
