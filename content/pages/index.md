@@ -76,7 +76,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: Next.js
+        label: Figma
         url: ''
       - type: Label
         label: Netlify
