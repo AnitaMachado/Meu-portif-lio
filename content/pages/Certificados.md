@@ -64,7 +64,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: ''
         subtitle: ''
         text: ''
         actions: []
