@@ -235,6 +235,18 @@ sections:
         margin:
           - mr-5
           - ml-5
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        borderWidth: 1
 metaTags: []
 colors: colors-a
 socialImage: /images/ai-generated-9087010_1280.jpg
