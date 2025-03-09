@@ -61,12 +61,5 @@ sections:
         textAlign: center
 metaTags: []
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 socialImage: /images/ai-generated-9087010_1280.jpg
 ---
