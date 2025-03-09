@@ -28,7 +28,7 @@ sections:
         caption: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/UCAM.svg
         altText: Image two
         caption: Image two caption
         elementId: ''
