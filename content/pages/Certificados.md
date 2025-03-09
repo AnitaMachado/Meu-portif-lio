@@ -84,7 +84,7 @@ sections:
         title: '2'
         subtitle: >-
           Superior de Tecnologia em Processos
-          Gerenciais                                  
+          Gerenciais                                                 
         text: ''
         featuredImage:
           type: ImageBlock
