@@ -143,7 +143,7 @@ sections:
         padding:
           - pt-16
           - pb-12
-          - pl-10
+          - pl-5
           - pr-10
         textAlign: center
         borderRadius: small
