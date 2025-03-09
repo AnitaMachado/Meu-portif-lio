@@ -14,7 +14,7 @@ sections:
     quote: ''
     name: Este site esta em processo de construção (reestruturação)
     title: ''
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     styles:
       self:
