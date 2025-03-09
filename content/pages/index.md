@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: 'Eu sou Anita Machado, Analista de Dados e Soluções Digitais.'
+    subtitle: ''
     styles:
       self:
         height: auto
