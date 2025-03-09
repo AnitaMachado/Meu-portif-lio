@@ -211,6 +211,6 @@ sections:
           - mr-0
           - ml-0
     title: ''
-socialImage: /images/ai-generated-9087010_1280.jpg
+socialImage: /images/bg1.jpg
 addTitleSuffix: true
 ---
