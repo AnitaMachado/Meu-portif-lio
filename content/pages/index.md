@@ -77,7 +77,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/icons8-sql-50.png
+        url: /images/icons8-sql-32.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
