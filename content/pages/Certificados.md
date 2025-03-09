@@ -60,8 +60,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Unisuam.svg
           altText: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
           caption: Caption of the image
           elementId: ''
