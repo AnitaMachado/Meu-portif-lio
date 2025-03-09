@@ -87,7 +87,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/UCAM.svg
-          altText: Item image
+          altText: ''
           caption: Caption of the image
           elementId: ''
         elementId: ''
