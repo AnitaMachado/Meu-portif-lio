@@ -77,7 +77,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/pngwing.com.png
+        url: /images/icons8-ms-excel (4).svg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
