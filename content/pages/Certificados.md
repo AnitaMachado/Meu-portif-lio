@@ -177,7 +177,7 @@ sections:
           - pt-5
           - pb-5
           - pl-4
-          - pr-3
+          - pr-4
         textAlign: left
         borderColor: border-(--theme-dark)
         margin:
