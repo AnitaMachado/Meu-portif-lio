@@ -108,7 +108,7 @@ sections:
         elementId: ''
       - type: Button
         label: No Excel faço condicional aninhanda e no SQL?
-        altText: ''
+        altText: No Excel faço condicional aninhanda e no SQL?
         url: >-
           /https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
