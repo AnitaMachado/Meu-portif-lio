@@ -54,13 +54,6 @@
             "self": {
                 "width": "full"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/2.png",
-            "altText": "",
-            "caption": "",
-            "elementId": ""
         }
     },
     "footer": {
