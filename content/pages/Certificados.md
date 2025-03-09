@@ -96,7 +96,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             altText: ''
             url: >-
               https://www.candidomendes.edu.br/validador-de-diploma/1153.1153.4b1c883592b6/
