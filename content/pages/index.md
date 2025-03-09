@@ -108,6 +108,9 @@ sections:
       - type: Label
         label: Levantamento de requisitos
         url: ''
+      - type: Label
+        label: Kanban
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
