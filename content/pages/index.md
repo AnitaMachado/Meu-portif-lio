@@ -205,7 +205,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
     title: ''
 socialImage: /images/ai-generated-9087010_1280.jpg
 addTitleSuffix: false
