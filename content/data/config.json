@@ -48,6 +48,14 @@
                 "url": "https://www.linkedin.com/in/anitamachado/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
