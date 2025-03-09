@@ -8,8 +8,7 @@ description: >-
   Neste projeto simples trouxe a possíbilidade de realização de controle
   financeiro de diversos projetos onde o usário precisaria realizar o
   preenchimento apenas dos campos brancos da base para que cálculos gerenciais
-  fossem gerados. Para isso foi utilizado: Condicionais aninhadas, Lista
-  Suspensa, Proteção de intervalos, Cálculos simples e Formatação condicional.
+  fossem gerados.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
