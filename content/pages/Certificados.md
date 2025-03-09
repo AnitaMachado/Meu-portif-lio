@@ -24,7 +24,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Unisuam.svg
-        altText: Image one
+        altText: ''
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
