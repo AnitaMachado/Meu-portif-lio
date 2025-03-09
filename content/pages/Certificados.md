@@ -56,7 +56,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '1'
+        title: ''
         subtitle: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         text: ''
         featuredImage:
