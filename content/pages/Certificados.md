@@ -57,7 +57,7 @@ sections:
           - pt-12
           - pb-12
           - pl-4
-          - pr-4
+          - pr-5
         textAlign: center
 metaTags: []
 colors: colors-a
