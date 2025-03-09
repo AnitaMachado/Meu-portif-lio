@@ -155,7 +155,7 @@ sections:
     showAuthor: false
     showExcerpt: false
     showFeaturedImage: false
-    showReadMoreLink: true
+    showReadMoreLink: false
     styles:
       self:
         height: auto
