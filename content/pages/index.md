@@ -206,7 +206,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    title: 'Confira também '
+    title: ''
 socialImage: /images/ai-generated-9087010_1280.jpg
 addTitleSuffix: false
 ---
