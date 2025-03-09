@@ -118,8 +118,8 @@ sections:
         elementId: ''
       - type: Button
         label: >-
-          Você sabe como utilizar a formatação condicional para gerar um
-          indicador simples para te ajudar nas planilhas do dia a dia?
+          Você sabe como utilizar a formatação condicional te ajudar nas
+          planilhas do dia a dia?
         altText: >-
           Você sabe como utilizar a formatação condicional para gerar um
           indicador simples para te ajudar nas planilhas do dia a dia?
