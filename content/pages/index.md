@@ -45,8 +45,8 @@ sections:
           Eu sou <span style="font-size: 28px; font-weight: 700; color: #E0FFFF; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
       </span>
 
-      <div style="font-size: 12px; font-style: italic;">
-          E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia<br/> através de alguns dos meus projetos e experiências.
+      <div style="font-size: 15px; font-style: italic;">
+          E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia<br> através de alguns dos meus projetos e experiências.
       </div></div>
 
   - colors: colors-d
