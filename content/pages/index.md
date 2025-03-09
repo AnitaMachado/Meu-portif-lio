@@ -10,6 +10,25 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 40
 sections:
+  - type: QuoteSection
+    quote: ''
+    name: Este site esta em processo de construção (reestruturação)
+    title: ''
+    colors: colors-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-0
+          - pb-10
+          - pl-4
+          - pr-4
+        textAlign: center
+        borderStyle: none
+        margin:
+          - mb-0
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -95,7 +114,7 @@ sections:
         width: full
         padding:
           - pt-5
-          - pb-10
+          - pb-20
           - pl-4
           - pr-4
         textAlign: center
@@ -104,12 +123,9 @@ sections:
   - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: VEJA MAIS
-        url: /projects
+    actions: []
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
@@ -124,8 +140,8 @@ sections:
         padding:
           - pt-16
           - pb-12
-          - pl-10
-          - pr-10
+          - pl-0
+          - pr-0
         textAlign: left
         borderRadius: small
         margin:
@@ -135,17 +151,11 @@ sections:
         borderColor: border-(--theme-primary)
         borderStyle: double
     subtitle: ''
-    title: ''
+    title: principais projetos
   - type: CtaSection
     title: ''
     text: |+
-      <p>
-        <span style="color: WHITE; font-size: 30px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">
-          ALGUNS POSTS
-        </span>
-        <img src="https\://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="LinkedIn" 
-             style="width: 24px; height: 24px; margin-left: 10px; vertical-align: middle;">
-      </p>
+
 
     actions:
       - type: Button
@@ -198,12 +208,12 @@ sections:
         padding:
           - pt-7
           - pb-10
-          - pl-11
-          - pr-1
+          - pl-96
+          - pr-0
         flexDirection: col
-        textAlign: left
+        textAlign: right
         margin:
-          - ml-96
-          - mr-5
+          - ml-0
+          - mr-0
 addTitleSuffix: true
 ---

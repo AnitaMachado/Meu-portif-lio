@@ -29,8 +29,18 @@
             },
             {
                 "type": "Link",
+                "label": "CERTIFICADOS",
+                "altText": "",
+                "url": "/Certificados",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "CONTATO",
-                "url": "/blog"
+                "url": "https://linktr.ee/anitamesmo.tech"
             }
         ],
         "socialLinks": [
