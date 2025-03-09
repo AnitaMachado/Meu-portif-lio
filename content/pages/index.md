@@ -62,7 +62,46 @@ sections:
           - pl-4
           - pr-4
         borderWidth: 1
-  - colors: colors-d
+  - type: LabelsSection
+    title: ''
+    subtitle: ''
+    items:
+      - type: Label
+        label: Excel
+        url: ''
+      - type: Label
+        label: 'SQL '
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: Figma
+        url: ''
+      - type: Label
+        label: Power BI
+        url: ''
+      - type: Label
+        label: Power Query
+        url: ''
+      - type: Label
+        label: Dax
+        url: ''
+    colors: colors-d
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-5
+          - pb-10
+          - pl-4
+          - pr-4
+        textAlign: center
+        borderColor: border-(--theme-light)
+        borderRadius: none
+  - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
     actions:
@@ -83,84 +122,88 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-12
+          - pl-10
+          - pr-10
         textAlign: left
-    subtitle: Meus principais projetos
-  - type: FeaturedProjectsSection
+        borderRadius: small
+        margin:
+          - mr-5
+          - ml-5
+        borderWidth: 1
+        borderColor: border-(--theme-primary)
+        borderStyle: double
     subtitle: ''
+    title: ''
+  - type: CtaSection
+    title: ''
+    text: |+
+      <p>
+        <span style="color: WHITE; font-size: 30px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">
+          ALGUNS POSTS
+        </span>
+        <img src="https\://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="LinkedIn" 
+             style="width: 24px; height: 24px; margin-left: 10px; vertical-align: middle;">
+      </p>
+
     actions:
       - type: Button
-        label: Como a IA pode ajudar no trabalh o do Analista de Dados
-        altText: Como a IA pode ajudar no trabalh o do Analista de Dados
+        label: COMO A IA PODE AJUDAR NO TRABALHO DO ANALISTA DE DADOS
+        altText: ''
         url: >-
-          /https://www.linkedin.com/posts/anitamachado_como-a-ia-pode-ajudar-no-trabalho-do-analista-activity-7216927604266704896-S9gG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+          https://www.linkedin.com/posts/anitamachado_como-a-ia-pode-ajudar-no-trabalho-do-analista-activity-7216927604266704896-S9gG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: No Excel faço Condicional Aninhada e no SQL?
+        altText: ''
+        url: >-
+          https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
       - type: Button
-        label: No Excel faço condicional aninhanda e no SQL?
-        altText: No Excel faço condicional aninhanda e no SQL?
+        label: Como utilizar a formatação condicional no dia a dia?
+        altText: ''
         url: >-
-          /https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+          https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7199815392108703747-_ZAq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
       - type: Button
-        label: 'Você sabe como utilizar condicional aninhada? Não? '
-        altText: 'Você sabe como utilizar condicional aninhada? Não? '
-        url: >-
-          /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7197248571899809793-rvcb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
-        label: A importäncia do processo empresarial ser orientado a dados
-        altText: A importäncia do processo empresarial ser orientado a dados
+        label: A importância de ser uma empresa é orientada à dados
+        altText: ''
         url: >-
           https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
-      - type: Button
-        label: Como utilizar a formatação condicional nas planilhas do dia a dia?
-        altText: Como utilizar a formatação condicional nas planilhas do dia a dia?
-        url: >-
-          /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7199815392108703747-_ZAq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    projects: []
-    colors: colors-f
-    variant: variant-b
+    colors: colors-d
+    backgroundSize: full
     elementId: ''
-    showDate: false
-    showDescription: false
-    showFeaturedImage: false
-    showReadMoreLink: false
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-7
+          - pb-10
+          - pl-11
+          - pr-1
+        flexDirection: col
         textAlign: left
-    title: 'Confira também '
-socialImage: /images/ai-generated-9087010_1280.jpg
-addTitleSuffix: false
+        margin:
+          - ml-96
+          - mr-5
+addTitleSuffix: true
 ---

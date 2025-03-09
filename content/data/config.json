@@ -43,9 +43,9 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "LinkedIn",
                 "altText": "",
-                "url": "/https://www.linkedin.com/in/anitamachado/",
+                "url": "https://www.linkedin.com/in/anitamachado/",
                 "icon": "linkedin",
                 "elementId": ""
             }
@@ -101,15 +101,15 @@
                 "elementId": ""
             }
         ],
-        "copyrightText": "",
+        "copyrightText": "<div style=\"text-align: left;font-size: 12px\">\"Aumente seus esforços e sua criatividade ao invés de diminuir suas metas\"</div>\n\n<div style=\"text-align: right;font-size: 9px;font-style: italic\">Mentor milionário</div>\n\n",
         "styles": {
             "self": {
-                "width": "full",
+                "width": "wide",
                 "padding": [
-                    "pt-36",
+                    "pt-10",
                     "pb-10",
-                    "pl-4",
-                    "pr-4"
+                    "pl-10",
+                    "pr-10"
                 ]
             }
         }
