@@ -130,6 +130,7 @@ sections:
         borderRadius: none
         margin:
           - mr-5
+          - ml-5
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
     subtitle: ''
