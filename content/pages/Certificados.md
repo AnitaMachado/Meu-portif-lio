@@ -22,6 +22,14 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
+        title: GRADUAÇÃO
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: ''
         subtitle: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         text: ''
@@ -98,14 +106,6 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: GRADUAÇÃO
-        subtitle: ''
-        text: ''
         elementId: ''
         styles:
           self:
