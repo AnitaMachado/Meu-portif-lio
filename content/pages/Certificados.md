@@ -212,7 +212,7 @@ sections:
           type: ImageBlock
           url: /images/Arquitetura de dados - XP Educação.jpg
           altText: ''
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         actions:
           - type: Button
