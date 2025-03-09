@@ -100,16 +100,6 @@
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "CONTATO",
-                "altText": "",
-                "url": "https://anitamachado.netlify.app/info/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "CERTIFICADOS",
                 "altText": "",
@@ -118,6 +108,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "CONTATO",
+                "altText": "",
+                "url": "https://anitamachado.netlify.app/info/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
                 "elementId": ""
             }
         ],
