@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: QuoteSection
     quote: ''
-    name: Johnna Doe
+    name: Este site esta em processo de construção (reestruturação)
     title: Product Marketing Manager at Acme
     colors: colors-d
     elementId: ''
