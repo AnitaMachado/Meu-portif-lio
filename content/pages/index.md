@@ -162,7 +162,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
