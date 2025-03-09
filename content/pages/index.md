@@ -41,7 +41,7 @@ sections:
         url: '/https://www.linkedin.com/in/anitamachado/'
         showIcon: false
         icon: ''
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     text: >+
       <div style="text-align: left"><p><span style="color: #40E0D0; font-size:
