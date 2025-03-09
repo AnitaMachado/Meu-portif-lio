@@ -12,5 +12,5 @@
     "onComplementary": "#081e3e",
     "fontBody": "\"DM Mono\", monospace",
     "headingWeight": "500",
-    "headingCase": "none"
+    "headingCase": "uppercase"
 }
