@@ -80,16 +80,6 @@
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "PROJETOS",
-                "altText": "Info",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "PROJETOS",
                 "altText": "",
