@@ -41,6 +41,14 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/anitamesmo.tech/",
                 "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/anitamachado/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
