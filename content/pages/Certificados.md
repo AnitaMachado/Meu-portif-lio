@@ -24,7 +24,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/UCAM.svg
-        altText: Image two
+        altText: ''
         caption: SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS
         elementId: ''
       - type: ImageBlock
