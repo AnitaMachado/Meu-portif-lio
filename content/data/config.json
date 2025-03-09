@@ -20,13 +20,13 @@
             },
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Projects",
+                "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Info",
+                "url": "/info"
             },
             {
                 "type": "Link",
