@@ -62,6 +62,48 @@ sections:
           - pl-4
           - pr-4
         borderWidth: 1
+  - type: LabelsSection
+    title: ''
+    subtitle: ''
+    items:
+      - type: Label
+        label: Excel
+        url: ''
+      - type: Label
+        label: 'SQL '
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: Figma
+        url: ''
+      - type: Label
+        label: Power BI
+        url: ''
+      - type: Label
+        label: Pancakes
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Swift
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-5
+          - pb-5
+          - pl-4
+          - pr-4
+        textAlign: center
+        borderColor: border-(--theme-light)
+        borderRadius: none
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
@@ -103,16 +145,6 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: No Excel faço condicional aninhanda e no SQL?
-        altText: No Excel faço condicional aninhanda e no SQL?
-        url: >-
-          /https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
         label: 'Você sabe como utilizar condicional aninhada? Não? '
         altText: 'Você sabe como utilizar condicional aninhada? Não? '
         url: >-
@@ -123,20 +155,30 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: A importäncia do processo empresarial ser orientado a dados
-        altText: A importäncia do processo empresarial ser orientado a dados
+        label: Como utilizar a formatação condicional nas planilhas do dia a dia?
+        altText: Como utilizar a formatação condicional nas planilhas do dia a dia?
         url: >-
-          https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+          /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7199815392108703747-_ZAq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Button
-        label: Como utilizar a formatação condicional nas planilhas do dia a dia?
-        altText: Como utilizar a formatação condicional nas planilhas do dia a dia?
+        label: No Excel faço condicional aninhanda e no SQL?
+        altText: No Excel faço condicional aninhanda e no SQL?
         url: >-
-          /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7199815392108703747-_ZAq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+          /https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: A importäncia do processo empresarial ser orientado a dados
+        altText: A importäncia do processo empresarial ser orientado a dados
+        url: >-
+          https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
         icon: arrowRight
         iconPosition: right
