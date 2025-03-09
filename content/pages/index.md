@@ -49,14 +49,6 @@ sections:
           E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia<br> através de alguns dos meus projetos e experiências.
       </div></div>
 
-    media:
-      type: ImageBlock
-      url: >-
-        /images/1000309925_98e8087f808e71287976cd2eb0e54f99-02_05_2024,
-        18_01_53.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
