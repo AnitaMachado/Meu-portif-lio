@@ -149,7 +149,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowLeftCircle
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
