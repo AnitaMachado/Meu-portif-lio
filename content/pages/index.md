@@ -35,9 +35,11 @@ sections:
         borderWidth: 0
     type: HeroSection
     actions: []
-    text: >
-      E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
-      através de alguns dos meus projetos.
+    text: >+
+      <div style="text-align: center">E este site foi cuidadosamente
+      desenvolvido para te apresentar tecnologia através de alguns dos meus
+      projetos.</div>
+
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
