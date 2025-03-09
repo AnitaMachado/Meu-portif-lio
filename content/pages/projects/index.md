@@ -89,4 +89,5 @@ bottomSections:
           - pl-4
         flexDirection: row
         textAlign: left
+socialImage: /images/ai-generated-9087010_1280.jpg
 ---
