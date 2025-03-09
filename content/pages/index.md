@@ -35,14 +35,20 @@ sections:
         borderWidth: 0
     type: HeroSection
     actions: []
-    text: >+
-      <div style="text-align: left"><a color = green>OLÁ, SEJA BEM
-      VINDO!<a/><div/>
-
-      Eu sou Anita Machado, Analista de Dados e Soluções Digitais.<div/>
-
-      E este site foi cuidadosamente desenvolvido para te apresentar a
-      tecnologia através de alguns dos meus projetos e experiências.</div>
+    text: |+
+      <div style="text-align: left"><a>
+        <span style="color: green;">
+          OLÁ, SEJA BEM-VINDO!
+        </span>
+      </a>
+      <a>
+        <div>
+          Eu sou Anita Machado, Analista de Dados e Soluções Digitais.
+          <div>
+            E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia através de alguns dos meus projetos e experiências.
+          </div>
+        </div>
+      </a></div>
 
   - colors: colors-d
     type: FeaturedProjectsSection
