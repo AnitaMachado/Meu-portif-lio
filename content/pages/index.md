@@ -179,10 +179,7 @@ sections:
         label: Learn more
         altText: ''
         url: >-
-          <iframe
-          src="https://www.linkedin.com/embed/feed/update/urn:li:share:7198455986263613440?collapsed=1"
-          height="399" width="504" frameborder="0" allowfullscreen=""
-          title="Publicação incorporada"></iframe>
+          https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
         icon: arrowRight
         iconPosition: right
