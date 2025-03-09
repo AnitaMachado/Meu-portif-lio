@@ -76,11 +76,6 @@ sections:
         altText: PowerBI
         caption: ''
         elementId: ''
-      - type: ImageBlock
-        url: /images/icons8-sql-32.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-f
     spacing: 10
     columns: 6
