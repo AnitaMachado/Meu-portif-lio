@@ -101,7 +101,7 @@
                 "elementId": ""
             }
         ],
-        "copyrightText": "<div style=\"text-align: left\">\"Aumente seus esforços e sua criatividade ao invés de diminuir suas metas\"</div>\n\n<div style=\"text-align: right\">Mentor milionário</div>\n",
+        "copyrightText": "<div style=\"text-align: left;font-size: 18px\">\"Aumente seus esforços e sua criatividade ao invés de diminuir suas metas\"</div>\n\n<div style=\"text-align: right;font-size: 12px;font-style: italic\">Mentor milionário</div>\n",
         "styles": {
             "self": {
                 "width": "full",
