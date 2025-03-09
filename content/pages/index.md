@@ -111,7 +111,7 @@ sections:
         url: /projects
         showIcon: false
         icon: linkedin
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     projects: []
     colors: colors-f
