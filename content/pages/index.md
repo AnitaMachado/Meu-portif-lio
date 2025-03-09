@@ -188,18 +188,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: >-
-          <iframe
-          src="https://www.linkedin.com/embed/feed/update/urn:li:share:7198455986263613440?collapsed=1"
-          height="399" width="504" frameborder="0" allowfullscreen=""
-          title="Publicação incorporada"></iframe>
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     colors: colors-d
     backgroundSize: full
     elementId: ''
