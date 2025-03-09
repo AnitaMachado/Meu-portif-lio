@@ -70,43 +70,58 @@
         "type": "Footer",
         "primaryLinks": [
             {
-                "type": "Link",
+                "type": "Button",
                 "label": "HOME",
-                "altText": "Projects",
-                "url": "/",
+                "altText": "",
+                "url": "https://anitamesmotech.com.br/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
+                "style": "primary",
                 "elementId": ""
             },
             {
-                "type": "Link",
+                "type": "Button",
                 "label": "PROJETOS",
-                "altText": "Info",
-                "url": "/",
+                "altText": "",
+                "url": "https://anitamesmotech.com.br/projects/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
+                "style": "primary",
                 "elementId": ""
             },
             {
-                "type": "Link",
+                "type": "Button",
                 "label": "SOBRE",
                 "altText": "",
-                "url": "/https://anitamachado.netlify.app/info/",
+                "url": "https://anitamesmotech.com.br/info/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
+                "style": "primary",
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "CONTATO",
+                "type": "Button",
+                "label": "CERTIFICADOS",
                 "altText": "",
-                "url": "https://anitamachado.netlify.app/info/",
+                "url": "https://anitamesmotech.com.br/Certificados/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "CONTATO",
+                "altText": "",
+                "url": "/https://linktr.ee/anitamesmo.tech",
+                "showIcon": false,
+                "icon": "arrowRightCircle",
+                "iconPosition": "right",
+                "style": "primary",
                 "elementId": ""
             }
         ],
@@ -116,7 +131,7 @@
                 "width": "wide",
                 "padding": [
                     "pt-10",
-                    "pb-10",
+                    "pb-11",
                     "pl-10",
                     "pr-10"
                 ]
