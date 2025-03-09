@@ -120,9 +120,7 @@ sections:
         label: >-
           Você sabe como utilizar a formatação condicional te ajudar nas
           planilhas do dia a dia?
-        altText: >-
-          Você sabe como utilizar a formatação condicional te ajudar nas
-          planilhas do dia a dia?
+        altText: Como utilizar a formatação condicional nas planilhas do dia a dia?
         url: >-
           /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7199815392108703747-_ZAq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
