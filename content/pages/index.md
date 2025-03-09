@@ -4,22 +4,17 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/ai-generated-9087010_1280.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 40
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: 'OLÁ, SEJA BEM VINDO!'
+    subtitle: 'Eu sou Anita Machado, Analista de Dados e Soluções Digitais.'
     styles:
       self:
         height: auto
@@ -36,14 +31,19 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
+        borderColor: border-(--theme-secondary)
+        borderWidth: 0
     type: HeroSection
     actions: []
-  - colors: colors-f
+    text: >
+      E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
+      através de alguns dos meus projetos.
+  - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: VEJA MAIS
         url: /projects
     showDate: false
     showDescription: true
@@ -64,93 +64,78 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+    subtitle: Meus principais projetos
+  - type: FeaturedProjectsSection
+    subtitle: ''
+    actions:
+      - type: Button
+        label: Como a IA pode ajudar no trabalh o do Analista de Dados
+        altText: Como a IA pode ajudar no trabalh o do Analista de Dados
+        url: >-
+          /https://www.linkedin.com/posts/anitamachado_como-a-ia-pode-ajudar-no-trabalho-do-analista-activity-7216927604266704896-S9gG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: No Excel faço condicional aninhanda e no SQL?
+        altText: No Excel faço condicional aninhanda e no SQL?
+        url: >-
+          /https://www.linkedin.com/posts/anitamachado_no-excel-fa%C3%A7o-condicional-aninhada-e-no-sql-activity-7200899759694352384-B1FU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: 'Você sabe como utilizar condicional aninhada? Não? '
+        altText: 'Você sabe como utilizar condicional aninhada? Não? '
+        url: >-
+          /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7197248571899809793-rvcb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: A importäncia do processo empresarial ser orientado a dados
+        altText: A importäncia do processo empresarial ser orientado a dados
+        url: >-
+          https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Como utilizar a formatação condicional nas planilhas do dia a dia?
+        altText: Como utilizar a formatação condicional nas planilhas do dia a dia?
+        url: >-
+          /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7199815392108703747-_ZAq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    projects: []
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    elementId: ''
+    showDate: false
+    showDescription: false
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    showReadMoreLink: false
     styles:
       self:
         height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
           - pt-24
           - pb-24
-          - pr-4
           - pl-4
-        flexDirection: row
+          - pr-4
         textAlign: left
+    title: 'Confira também '
+socialImage: /images/ai-generated-9087010_1280.jpg
 ---

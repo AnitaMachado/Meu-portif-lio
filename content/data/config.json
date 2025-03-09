@@ -1,43 +1,53 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
+        "title": "",
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "HOME",
+                "altText": "",
+                "url": "/https://anitamachado.netlify.app/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "PROJETOS",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "SOBRE",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "CONTATO",
                 "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/anitamesmo.tech/",
+                "icon": "instagram"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/anitamachado/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -96,5 +106,6 @@
                 ]
             }
         }
-    }
+    },
+    "favicon": "/images/2.png"
 }
