@@ -38,8 +38,8 @@ sections:
     text: >+
       <div style="text-align: left">```
 
-      <sup>E este site foi cuidadosamente desenvolvido para te apresentar
-      tecnologia através de alguns dos meus projetos.</sup>
+      E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
+      através de alguns dos meus projetos.
 
       ```</div>
 
