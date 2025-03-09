@@ -83,7 +83,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: >-
-          Superior de Tecnologia em Processos
+          Superior em Processos
           Gerenciais                                                 
         text: ''
         featuredImage:
