@@ -208,7 +208,7 @@ sections:
         textAlign: right
         margin:
           - mr-0
-          - ml-5
+          - ml-0
     title: ''
 socialImage: /images/ai-generated-9087010_1280.jpg
 addTitleSuffix: false
