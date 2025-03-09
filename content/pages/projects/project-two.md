@@ -24,5 +24,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 10
-addTitleSuffix: true
+addTitleSuffix: false
 ---
