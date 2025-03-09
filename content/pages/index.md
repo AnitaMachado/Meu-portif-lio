@@ -45,7 +45,7 @@ sections:
         <div style="font-size: 1.5em;">
           Eu sou Anita Machado, Analista de Dados e Soluções Digitais.
         </div>
-        <div style="font-size: 1em; font-style: italic;">
+        <div style="font-size: 5px; font-style: italic;">
           E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia através de alguns dos meus projetos e experiências.
         </div>
       </a></div>
