@@ -105,7 +105,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Como a IA pode ajudar no trabalh o do Analista de Dados
         altText: ''
         url: >-
           /https://www.linkedin.com/posts/anitamachado_como-a-ia-pode-ajudar-no-trabalho-do-analista-activity-7216927604266704896-S9gG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
