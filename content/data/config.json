@@ -103,7 +103,7 @@
             {
                 "type": "Link",
                 "label": "",
-                "altText": "",
+                "altText": "Espaço",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
