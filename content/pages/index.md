@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Anita Machado
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
