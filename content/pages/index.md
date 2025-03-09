@@ -33,6 +33,7 @@ sections:
         textAlign: left
         borderColor: border-(--theme-secondary)
         borderWidth: 0
+        borderStyle: solid
     type: HeroSection
     actions: []
     text: >+
