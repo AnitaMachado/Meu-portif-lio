@@ -93,7 +93,7 @@ sections:
         elementId: ''
     colors: colors-f
     spacing: 10
-    columns: 4
+    columns: 5
     aspectRatio: '16:9'
     showCaption: true
     enableHover: false
