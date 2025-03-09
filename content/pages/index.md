@@ -97,6 +97,9 @@ sections:
         label: TOTVS Protheus
         url: ''
       - type: Label
+        label: Kanban
+        url: ''
+      - type: Label
         label: Microsoft PowerPoint
         url: ''
       - type: Label
@@ -107,9 +110,6 @@ sections:
         url: ''
       - type: Label
         label: Levantamento de requisitos
-        url: ''
-      - type: Label
-        label: Kanban
         url: ''
     colors: colors-f
     elementId: ''
