@@ -72,11 +72,6 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: logo four
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/icons8-ms-excel (5).svg
         altText: altText of the image
         caption: Caption of the image
