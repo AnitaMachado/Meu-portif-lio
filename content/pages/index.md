@@ -149,7 +149,8 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://www.linkedin.com/posts/anitamachado_como-a-ia-pode-ajudar-no-trabalho-do-analista-activity-7216927604266704896-S9gG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: true
         icon: arrowRight
         iconPosition: right
