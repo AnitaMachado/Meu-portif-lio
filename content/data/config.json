@@ -110,6 +110,17 @@
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://anitamesmotech.com.br/info/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "copyrightText": "<div style=\"text-align: left;font-size: 12px\">\"Aumente seus esforços e sua criatividade ao invés de diminuir suas metas\"</div>\n\n<div style=\"text-align: right;font-size: 9px;font-style: italic\">Mentor milionário</div>\n\n",
