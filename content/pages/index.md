@@ -69,7 +69,7 @@ sections:
       - type: ImageBlock
         url: /images/icons8-ms-excel (5).svg
         altText: Excel
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/icons8-power-bi (2).svg
