@@ -139,10 +139,10 @@ sections:
   - type: CtaSection
     title: ''
     text: >+
-      <p><span style="color: #40E0D0; font-size: 38px; font-weight: bold;
+      |<p><span style="color: #40E0D0; font-size: 38px; font-weight: bold;
       text-shadow: 0.2px 0.2px 0.2px #4682B4;">
           ALGUNS POSTS |
-      </span></p>
+      </span></p>|
 
     actions:
       - type: Button
