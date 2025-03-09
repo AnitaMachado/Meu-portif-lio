@@ -90,16 +90,6 @@
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "SOBRE",
-                "altText": "",
-                "url": "/https://anitamachado.netlify.app/info/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "CERTIFICADOS",
                 "altText": "",
