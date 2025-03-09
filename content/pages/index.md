@@ -26,6 +26,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderStyle: none
   - elementId: ''
     colors: colors-f
     backgroundSize: full
