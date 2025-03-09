@@ -49,6 +49,12 @@ sections:
           E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia<br> através de alguns dos meus projetos e experiências.
       </div></div>
 
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
