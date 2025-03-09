@@ -69,7 +69,8 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: >-
+              https://diplomadigital.techcert.com.br/validar/277.277.3fffaad89179
             showIcon: true
             icon: arrowRight
             iconPosition: right
