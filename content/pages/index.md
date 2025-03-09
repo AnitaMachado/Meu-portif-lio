@@ -34,15 +34,7 @@ sections:
         borderColor: border-(--theme-secondary)
         borderWidth: 0
     type: HeroSection
-    actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: '/https://www.linkedin.com/in/anitamachado/'
-        showIcon: false
-        icon: ''
-        iconPosition: right
-        elementId: ''
+    actions: []
     text: >+
       <div style="text-align: left"><p><span style="color: #40E0D0; font-size:
       38px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">
