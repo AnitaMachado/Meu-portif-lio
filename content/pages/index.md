@@ -120,7 +120,7 @@ sections:
     showDate: false
     showDescription: false
     showFeaturedImage: false
-    showReadMoreLink: true
+    showReadMoreLink: false
     styles:
       self:
         height: auto
