@@ -85,7 +85,7 @@
             "type": "ContactBlock",
             "title": "Contato",
             "phoneNumber": "(21) 9 7435-0242",
-            "phoneAltText": "Call us",
+            "phoneAltText": "WhatsApp",
             "email": "john@doe.com",
             "emailAltText": "Email us",
             "address": "312 Lovely Street, NY",
