@@ -131,6 +131,7 @@ sections:
         margin:
           - mr-5
           - ml-5
+        borderWidth: 8
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
     subtitle: ''
