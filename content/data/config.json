@@ -11,7 +11,7 @@
                 "type": "Link",
                 "label": "HOME",
                 "altText": "",
-                "url": "Anita_Machado",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
