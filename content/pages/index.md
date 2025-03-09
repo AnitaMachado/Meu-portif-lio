@@ -96,6 +96,9 @@ sections:
       - type: Label
         label: TOTVS Protheus
         url: ''
+      - type: Label
+        label: Microsoft PowerPoint
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
