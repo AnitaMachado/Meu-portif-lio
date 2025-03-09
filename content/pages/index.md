@@ -198,6 +198,6 @@ sections:
         textAlign: right
         margin:
           - ml-96
-          - mr-5
+          - mr-0
 addTitleSuffix: true
 ---
