@@ -138,11 +138,12 @@ sections:
     title: ''
   - type: CtaSection
     title: ''
-    text: >
-      <p><span style="color: #40E0D0; font-size: 38px; font-weight: bold;
+    text: >+
+      <p><span style="color: WHITE; font-size: 30px; font-weight: bold;
       text-shadow: 0.2px 0.2px 0.2px #4682B4;">
 
       ALGUNS POSTS</span></p>
+
     actions:
       - type: Button
         label: COMO A IA PODE AJUDAR NO TRABALHO DO ANALISTA DE DADOS
