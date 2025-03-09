@@ -175,7 +175,7 @@ sections:
           - pt-10
           - pb-10
           - pl-0
-          - pr-9
+          - pr-0
         flexDirection: row
         textAlign: left
         margin:
