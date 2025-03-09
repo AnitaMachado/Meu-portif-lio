@@ -36,13 +36,13 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: left"><span style="color: #33A078; font-size:
+      <div style="text-align: left"><span style="color: #800080; font-size:
       38px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px blue;">
           SEJA BEM-VINDO!
       </span>
 
       <div style="font-size: 28px;">
-          Eu sou <span style="font-weight: 700; color: #33A078; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px blue;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
+          Eu sou <span style="font-weight: 700; color: #800080; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px blue;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
       </div>
 
       <div style="font-size: 12px; font-style: italic;">
