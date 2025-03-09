@@ -120,7 +120,7 @@ sections:
         elementId: ''
     projects: []
     colors: colors-f
-    variant: variant-c
+    variant: variant-d
     elementId: ''
     showDate: false
     showDescription: false
