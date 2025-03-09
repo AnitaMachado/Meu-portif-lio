@@ -67,7 +67,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/icons8-ms-excel-50.png
         altText: logo one
         caption: Caption of the image
         elementId: ''
