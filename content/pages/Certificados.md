@@ -123,16 +123,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ESPECIALIZAÇÃO
-        text: |+
-
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-d
     columns: 4
