@@ -137,7 +137,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: A importäncia do processo empresarial ser orientado a dados
         altText: ''
         url: >-
           https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
