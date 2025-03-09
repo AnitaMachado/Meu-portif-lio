@@ -132,6 +132,7 @@ sections:
           - mr-5
           - ml-5
         borderWidth: 8
+        borderColor: border-(--theme-primary)
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
     subtitle: ''
