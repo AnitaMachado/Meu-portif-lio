@@ -63,7 +63,7 @@ sections:
           - pr-4
         borderWidth: 1
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: ''
     items:
       - type: Label
