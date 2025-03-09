@@ -31,6 +31,24 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
         subtitle: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         text: ''
         featuredImage:
@@ -45,24 +63,6 @@ sections:
             altText: ''
             url: >-
               https://diplomadigital.techcert.com.br/validar/277.277.3fffaad89179
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
