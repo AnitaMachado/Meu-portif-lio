@@ -87,7 +87,7 @@ sections:
       - type: Label
         label: Dax
         url: ''
-    colors: colors-f
+    colors: colors-d
     elementId: ''
     styles:
       self:
