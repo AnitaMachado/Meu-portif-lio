@@ -55,7 +55,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         subtitle: ''
         text: ''
         featuredImage:
