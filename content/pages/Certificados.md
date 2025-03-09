@@ -188,7 +188,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: 'Formação profissional em '
+        subtitle: Formação profissional Engenheiro de Dados
         text: ''
         featuredImage:
           type: ImageBlock
