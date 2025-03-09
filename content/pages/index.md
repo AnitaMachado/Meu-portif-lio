@@ -123,7 +123,7 @@ sections:
         width: wide
         padding:
           - pt-16
-          - pb-16
+          - pb-14
           - pl-10
           - pr-10
         textAlign: left
