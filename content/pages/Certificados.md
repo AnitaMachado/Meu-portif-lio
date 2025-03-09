@@ -180,6 +180,8 @@ sections:
           - pr-4
         textAlign: left
         borderColor: border-(--theme-dark)
+        margin:
+          - mr-5
   - type: FeaturedItemsSection
     title: ''
     items:
