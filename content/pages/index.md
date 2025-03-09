@@ -136,7 +136,7 @@ sections:
         borderStyle: double
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
-    subtitle: ''
+    subtitle: CONFIRA TAMBÉM
     actions:
       - type: Button
         label: Como a IA pode ajudar no trabalh o do Analista de Dados
