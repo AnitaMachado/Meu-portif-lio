@@ -102,7 +102,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-        borderColor: border-(--theme-primary)
+        borderColor: border-(--theme-light)
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
