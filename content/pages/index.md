@@ -36,12 +36,13 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: left">**OLÁ, SEJA BEM VINDO!**
+      <div style="text-align: left"><a color = green>OLÁ, SEJA BEM
+      VINDO!<a/><div/>
 
-      Eu sou **Anita Machado**, Analista de Dados e Soluções Digitais.
+      Eu sou Anita Machado, Analista de Dados e Soluções Digitais.<div/>
 
-      *E este site foi cuidadosamente desenvolvido para te apresentar a
-      tecnologia através de alguns dos meus projetos e experiências.*</div>
+      E este site foi cuidadosamente desenvolvido para te apresentar a
+      tecnologia através de alguns dos meus projetos e experiências.</div>
 
   - colors: colors-d
     type: FeaturedProjectsSection
