@@ -115,7 +115,7 @@ sections:
         elementId: ''
     projects: []
     colors: colors-f
-    variant: variant-a
+    variant: variant-d
     elementId: ''
     showDate: false
     showDescription: false
