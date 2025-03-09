@@ -93,9 +93,6 @@ sections:
       - type: Label
         label: Trello
         url: ''
-      - type: Label
-        label: Mapeamento de processos
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
