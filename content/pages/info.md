@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: QuoteSection
-    quote: Este site esta em processo de construção (reestruturação)
+    quote: ''
     name: Este site esta em processo de construção (reestruturação)
     title: Product Marketing Manager at Acme
     colors: colors-f
