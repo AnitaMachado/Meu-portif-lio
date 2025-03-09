@@ -77,7 +77,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/icons8-ms-excel (2).svg
         altText: logo five
         caption: Caption of the image
         elementId: ''
