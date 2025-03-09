@@ -140,7 +140,7 @@ sections:
           - pr-5
         textAlign: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: I'm Fast
