@@ -211,6 +211,5 @@ sections:
           - mr-0
           - ml-0
     title: ''
-socialImage: /images/bg1.jpg
 addTitleSuffix: true
 ---
