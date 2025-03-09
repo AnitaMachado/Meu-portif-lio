@@ -172,7 +172,7 @@ sections:
           - pt-28
           - pb-28
           - pl-5
-          - pr-0
+          - pr-5
         flexDirection: row
         textAlign: left
 addTitleSuffix: true
