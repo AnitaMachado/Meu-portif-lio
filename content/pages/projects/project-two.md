@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: GESTÃO DE ORÇAMENTOS
-colors: colors-e
+colors: colors-a
 date: '2021-12-20'
 client: Anônimo
 description: >-
