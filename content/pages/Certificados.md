@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
-        subtitle: ''
+        subtitle: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         text: ''
         featuredImage:
           type: ImageBlock
