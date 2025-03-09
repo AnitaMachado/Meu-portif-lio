@@ -85,7 +85,7 @@ sections:
         label: Power Query
         url: ''
       - type: Label
-        label: C++
+        label: Dax
         url: ''
       - type: Label
         label: Swift
