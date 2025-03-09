@@ -79,7 +79,7 @@ sections:
         label: Figma
         url: ''
       - type: Label
-        label: Netlify
+        label: Power BI
         url: ''
       - type: Label
         label: Pancakes
