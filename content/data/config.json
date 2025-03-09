@@ -59,7 +59,7 @@
             "type": "ImageBlock",
             "url": "/images/2.png",
             "altText": "HOME",
-            "caption": "Caption of the image",
+            "caption": "",
             "elementId": ""
         }
     },
