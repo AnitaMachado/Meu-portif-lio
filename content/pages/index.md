@@ -96,9 +96,6 @@ sections:
       - type: Label
         label: Mapeamento de processos
         url: ''
-      - type: Label
-        label: Levantamento de requisitos
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
