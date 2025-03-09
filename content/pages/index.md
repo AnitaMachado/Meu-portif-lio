@@ -207,7 +207,7 @@ sections:
           - pr-4
         textAlign: right
         margin:
-          - mr-10
+          - mr-20
           - ml-5
     title: ''
 socialImage: /images/ai-generated-9087010_1280.jpg
