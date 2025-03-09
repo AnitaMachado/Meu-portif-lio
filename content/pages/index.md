@@ -63,7 +63,7 @@ sections:
           - pr-4
         borderWidth: 1
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
