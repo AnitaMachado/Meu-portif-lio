@@ -188,7 +188,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: 'Formação '
         text: ''
         featuredImage:
           type: ImageBlock
