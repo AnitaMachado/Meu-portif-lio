@@ -206,6 +206,8 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        margin:
+          - mr-10
     title: ''
 socialImage: /images/ai-generated-9087010_1280.jpg
 addTitleSuffix: false
