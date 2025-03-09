@@ -92,7 +92,7 @@
             "addressAltText": "Address",
             "elementId": ""
         },
-        "copyrightText": "Copyright text",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
