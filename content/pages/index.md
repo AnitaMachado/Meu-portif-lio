@@ -94,9 +94,6 @@ sections:
         label: Trello
         url: ''
       - type: Label
-        label: SAP S/4Hanna
-        url: ''
-      - type: Label
         label: TOTVS Protheus
         url: ''
       - type: Label
