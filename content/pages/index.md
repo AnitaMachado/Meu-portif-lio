@@ -29,7 +29,7 @@ sections:
           - pb-10
           - pl-4
           - pr-4
-        flexDirection: row-reverse
+        flexDirection: col-reverse
         textAlign: left
         borderColor: border-(--theme-secondary)
         borderWidth: 0
