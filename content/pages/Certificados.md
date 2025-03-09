@@ -279,7 +279,7 @@ sections:
         padding:
           - pt-5
           - pb-36
-          - pl-4
+          - pl-5
           - pr-4
         textAlign: center
 metaTags: []
