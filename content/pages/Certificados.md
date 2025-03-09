@@ -100,7 +100,7 @@ sections:
             altText: ''
             url: >-
               https://www.candidomendes.edu.br/validador-de-diploma/1153.1153.4b1c883592b6/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
