@@ -41,7 +41,7 @@ topSections:
         width: narrow
         padding:
           - pt-0
-          - pb-36
+          - pb-10
           - pl-4
           - pr-4
         textAlign: center
