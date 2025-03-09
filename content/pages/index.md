@@ -201,7 +201,7 @@ sections:
           - pl-11
           - pr-1
         flexDirection: col
-        textAlign: left
+        textAlign: right
         margin:
           - ml-96
           - mr-5
