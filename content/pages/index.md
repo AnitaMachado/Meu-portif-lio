@@ -205,7 +205,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: right
         margin:
           - mr-10
           - ml-10
