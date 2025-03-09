@@ -42,7 +42,7 @@ sections:
       </span></p>
 
       <span style="font-size: 25px;">
-          Eu sou <span style="font-size: 28px; font-weight: 700; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
+          Eu sou <span style="font-size: 28px; font-weight: 700; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #40E0D0;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
       </span>
 
       <div style="font-size: 13px; font-style: italic;">
