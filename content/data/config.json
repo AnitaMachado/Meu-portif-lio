@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-b",
+        "headerVariant": "variant-a",
         "isSticky": false,
         "title": "",
         "isTitleVisible": false,
