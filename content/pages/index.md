@@ -40,7 +40,7 @@ sections:
         altText: ''
         url: '/https://www.linkedin.com/in/anitamachado/'
         showIcon: false
-        icon: arrowRight
+        icon: ''
         iconPosition: right
         elementId: ''
     text: >+
