@@ -288,6 +288,7 @@ sections:
         textAlign: center
         margin:
           - mr-5
+          - ml-5
 metaTags: []
 colors: colors-a
 socialImage: /images/ai-generated-9087010_1280.jpg
