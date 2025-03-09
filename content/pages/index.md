@@ -144,7 +144,7 @@ sections:
           - pt-16
           - pb-12
           - pl-5
-          - pr-10
+          - pr-5
         textAlign: center
         borderRadius: small
         margin:
