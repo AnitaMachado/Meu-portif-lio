@@ -18,39 +18,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - type: MediaGallerySection
-    title: GRADUAÇÃO
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/UCAM.svg
-        altText: ''
-        caption: SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Unisuam.svg
-        altText: ''
-        caption: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO
-        elementId: ''
-    colors: colors-f
-    spacing: 20
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: true
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-5
-          - pr-5
-        textAlign: left
-        margin:
-          - mr-20
   - type: FeaturedItemsSection
     title: ''
     items:
