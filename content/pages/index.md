@@ -136,6 +136,16 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     projects: []
     colors: colors-f
     variant: variant-a
