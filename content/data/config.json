@@ -113,7 +113,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "SOBRE",
                 "altText": "",
                 "url": "https://anitamesmotech.com.br/info/",
                 "showIcon": false,
