@@ -107,5 +107,6 @@
             }
         }
     },
-    "favicon": "/images/2.png"
+    "favicon": "/images/2.png",
+    "defaultSocialImage": "/images/featured-Image1.jpg"
 }
