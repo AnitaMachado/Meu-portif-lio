@@ -13,8 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'OLÁ, SEJA BEM VINDO!'
-    subtitle: 'Eu sou Anita Machado, Analista de Dados e Soluções Digitais.'
+    title: ''
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -25,19 +25,43 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
         flexDirection: row-reverse
         textAlign: left
         borderColor: border-(--theme-secondary)
         borderWidth: 0
+        borderStyle: solid
     type: HeroSection
     actions: []
-    text: >
-      E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
-      através de alguns dos meus projetos.
+    text: >+
+      <div style="text-align: left"><p><span style="color: #40E0D0; font-size:
+      38px; font-weight: bold; text-shadow: 0.2px 0.2px 0.2px #4682B4;">
+          SEJA BEM-VINDO!
+      </span></p>
+
+      <span style="font-size: 25px;">
+          Eu sou <span style="font-size: 28px; font-weight: 700; font-weight: bold; text-shadow: 0.3px 0.3px 0.5px #40E0D0;">Anita Machado</span>, Analista de Dados e Soluções Digitais.
+      </span>
+
+      <div style="font-size: 13px; font-style: italic;">
+          E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia<br> através de alguns dos meus projetos e experiências.
+      </div></div>
+
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-1
+          - pb-5
+          - pl-4
+          - pr-4
+        borderWidth: 1
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''

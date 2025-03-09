@@ -52,7 +52,7 @@
         ],
         "styles": {
             "self": {
-                "width": "full"
+                "width": "wide"
             }
         }
     },
@@ -104,10 +104,10 @@
         "copyrightText": "",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "full",
                 "padding": [
-                    "pt-16",
-                    "pb-16",
+                    "pt-36",
+                    "pb-10",
                     "pl-4",
                     "pr-4"
                 ]
