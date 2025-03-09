@@ -22,7 +22,7 @@ sections:
         width: narrow
         padding:
           - pt-0
-          - pb-14
+          - pb-10
           - pl-4
           - pr-4
         textAlign: center
