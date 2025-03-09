@@ -90,9 +90,6 @@ sections:
       - type: Label
         label: Kanban
         url: ''
-      - type: Label
-        label: Trello
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
