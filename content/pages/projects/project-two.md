@@ -25,8 +25,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 10
 addTitleSuffix: false
-metaTags:
-  - type: MetaTag
-    property: 'og:url'
-    content: ''
+metaTags: []
 ---
