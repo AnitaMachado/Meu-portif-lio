@@ -131,6 +131,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    title: Alguns dos meus posts
+    title: 'Confira também '
 socialImage: /images/ai-generated-9087010_1280.jpg
 ---
