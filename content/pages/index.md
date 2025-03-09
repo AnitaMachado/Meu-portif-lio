@@ -90,6 +90,9 @@ sections:
       - type: Label
         label: Trello
         url: ''
+      - type: Label
+        label: TOTVS Protheus
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
