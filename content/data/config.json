@@ -62,7 +62,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "HOME",
                 "altText": "Projects",
                 "url": "/",
                 "showIcon": false,
