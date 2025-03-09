@@ -40,10 +40,9 @@ sections:
           OLÁ, SEJA BEM-VINDO!
       </span>
       <div>
-            Eu sou Anita Machado, Analista de Dados e Soluções Digitais.<div>
+            Eu sou Anita Machado, Analista de Dados e Soluções Digitais.
             E este site foi cuidadosamente desenvolvido para te apresentar a tecnologia através de alguns dos meus projetos e experiências.
-      </div>
-      </div>
+      </div></div>
 
   - colors: colors-d
     type: FeaturedProjectsSection
