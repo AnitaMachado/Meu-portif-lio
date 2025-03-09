@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: GESTÃO DE ORÇAMENTOS
 colors: colors-a
-date: '2024-05-20'
+date: '2024-05-16'
 client: Anônimo
 description: >-
   Neste projeto simples trouxe a possíbilidade de realização de controle
