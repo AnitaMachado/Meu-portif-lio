@@ -81,6 +81,17 @@
             },
             {
                 "type": "Button",
+                "label": "HOME",
+                "altText": "",
+                "url": "https://anitamesmotech.com.br/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
                 "label": "PROJETOS",
                 "altText": "",
                 "url": "https://anitamesmotech.com.br/projects/",
@@ -119,17 +130,6 @@
                 "url": "/https://linktr.ee/anitamesmo.tech",
                 "showIcon": false,
                 "icon": "arrowRightCircle",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
-                "label": "HOME",
-                "altText": "",
-                "url": "https://anitamesmotech.com.br/",
-                "showIcon": false,
-                "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
