@@ -15,7 +15,7 @@ featuredImage:
   altText: ''
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de tela 2025-03-09 130107.png
   altText: Project image
 ---
 
