@@ -27,6 +27,8 @@ sections:
           - pr-4
         textAlign: center
         borderStyle: none
+        margin:
+          - mb-40
   - elementId: ''
     colors: colors-f
     backgroundSize: full
