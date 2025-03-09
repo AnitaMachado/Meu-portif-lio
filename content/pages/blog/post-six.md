@@ -2,7 +2,7 @@
 type: PostLayout
 title: Como a IA pode ajudar no trabalho do Analista de Dados
 colors: colors-a
-date: '2024-06-03'
+date: '2024-06-01'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
