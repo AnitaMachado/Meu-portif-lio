@@ -23,14 +23,14 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Unisuam.svg
-        altText: ''
-        caption: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO
-        elementId: ''
-      - type: ImageBlock
         url: /images/UCAM.svg
         altText: Image two
         caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Unisuam.svg
+        altText: ''
+        caption: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO
         elementId: ''
     colors: colors-f
     spacing: 20
