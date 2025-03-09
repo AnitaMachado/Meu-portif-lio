@@ -243,7 +243,7 @@ sections:
         width: wide
         padding:
           - pt-2
-          - pb-36
+          - pb-2
           - pl-4
           - pr-4
         borderWidth: 1
