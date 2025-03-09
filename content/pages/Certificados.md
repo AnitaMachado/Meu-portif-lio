@@ -52,7 +52,7 @@ sections:
         margin:
           - mr-20
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: ''
