@@ -7,7 +7,7 @@
     "primary": "#b835e0",
     "onPrimary": "#d747db",
     "secondary": "#40E0D000",
-    "onSecondary": "#b819c4",
+    "onSecondary": "#40E0D0",
     "complementary": "#e2e2e24d",
     "onComplementary": "#081e3e",
     "fontBody": "\"DM Mono\", monospace",
