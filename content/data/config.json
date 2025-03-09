@@ -29,11 +29,6 @@
             },
             {
                 "type": "Link",
-                "label": "CONTATO",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "Learn more",
                 "altText": "",
                 "url": "/",
@@ -41,6 +36,11 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "CONTATO",
+                "url": "/blog"
             }
         ],
         "socialLinks": [
