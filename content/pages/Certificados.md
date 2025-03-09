@@ -176,7 +176,7 @@ sections:
         padding:
           - pt-5
           - pb-5
-          - pl-3
+          - pl-5
           - pr-4
         textAlign: left
         borderColor: border-(--theme-dark)
