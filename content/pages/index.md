@@ -90,7 +90,7 @@ sections:
       - type: Label
         label: Swift
         url: ''
-    colors: colors-f
+    colors: colors-d
     elementId: ''
     styles:
       self:
