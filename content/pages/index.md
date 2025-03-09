@@ -122,7 +122,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-24
+          - pt-20
           - pb-20
           - pl-4
           - pr-4
