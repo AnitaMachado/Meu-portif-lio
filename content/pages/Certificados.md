@@ -61,5 +61,4 @@ sections:
         textAlign: center
 metaTags: []
 colors: colors-a
-socialImage: /images/ai-generated-9087010_1280.jpg
 ---
