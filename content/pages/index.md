@@ -112,7 +112,7 @@ sections:
     variant: variant-d
     elementId: ''
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: false
     showReadMoreLink: true
     styles:
