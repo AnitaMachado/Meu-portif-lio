@@ -99,6 +99,9 @@ sections:
       - type: Label
         label: Microsoft PowerPoint
         url: ''
+      - type: Label
+        label: Microsoft SharePoint
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
