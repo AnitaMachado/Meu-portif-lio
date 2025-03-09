@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: SOBRE
+title: Certificados
 sections:
   - type: QuoteSection
     quote: ''
