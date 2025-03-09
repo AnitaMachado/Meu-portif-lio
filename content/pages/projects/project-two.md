@@ -3,7 +3,7 @@ type: ProjectLayout
 title: GESTÃO DE ORÇAMENTOS
 colors: colors-a
 date: '2021-12-20'
-client: Anonimo
+client: Anônimo
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
