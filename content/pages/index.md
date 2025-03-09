@@ -142,7 +142,7 @@ sections:
           - pb-12
           - pl-0
           - pr-0
-        textAlign: center
+        textAlign: left
         borderRadius: small
         margin:
           - mr-5
