@@ -19,7 +19,7 @@ media:
   altText: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/excel-1771393_1280.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
