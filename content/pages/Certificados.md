@@ -88,7 +88,7 @@ sections:
           type: ImageBlock
           url: /images/UCAM.svg
           altText: ''
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         elementId: ''
         styles:
