@@ -27,6 +27,6 @@ backgroundImage:
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:url'
     content: ''
 ---
