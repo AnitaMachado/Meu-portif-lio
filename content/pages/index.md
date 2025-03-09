@@ -128,6 +128,8 @@ sections:
           - pr-4
         textAlign: left
         borderRadius: none
+        margin:
+          - mr-5
     subtitle: Meus principais projetos
   - type: FeaturedProjectsSection
     subtitle: ''
