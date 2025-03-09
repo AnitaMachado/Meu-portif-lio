@@ -151,7 +151,7 @@ sections:
         borderColor: border-(--theme-primary)
         borderStyle: double
     subtitle: ''
-    title: ''
+    title: principais projetos
   - type: CtaSection
     title: ''
     text: |+
