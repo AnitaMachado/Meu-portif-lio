@@ -62,4 +62,11 @@ sections:
 metaTags: []
 colors: colors-a
 socialImage: /images/ai-generated-9087010_1280.jpg
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
