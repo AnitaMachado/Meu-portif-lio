@@ -92,7 +92,7 @@ sections:
         caption: Caption of the image
         elementId: ''
     colors: colors-f
-    spacing: 19
+    spacing: 14
     columns: 6
     aspectRatio: '16:9'
     showCaption: true
