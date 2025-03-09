@@ -37,7 +37,7 @@ sections:
     actions: []
     text: >+
       <div style="text-align: left"><span style="color: Blue; font-size: 48px;
-      font-weight: bold; text-shadow: 0.5px 0.5px 1px white;">
+      font-weight: bold; text-shadow: 0.2px 0.2px 0.2px white;">
           OLÁ, SEJA BEM-VINDO!
       </span>
 
