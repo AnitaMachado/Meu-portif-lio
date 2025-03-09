@@ -123,10 +123,7 @@ sections:
   - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: VEJA MAIS
-        url: /projects
+    actions: []
     showDate: false
     showDescription: false
     showFeaturedImage: true
