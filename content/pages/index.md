@@ -72,7 +72,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/icons8-power-bi (1).svg
+        url: /images/icons8-power-bi (2).svg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
