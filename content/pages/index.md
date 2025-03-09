@@ -132,7 +132,7 @@ sections:
         elementId: ''
       - type: Button
         label: 'Você sabe como utilizar condicional aninhada? Não? '
-        altText: ''
+        altText: 'Você sabe como utilizar condicional aninhada? Não? '
         url: >-
           /https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7197248571899809793-rvcb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
         showIcon: false
