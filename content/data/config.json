@@ -109,16 +109,6 @@
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "CONTATO",
-                "altText": "",
-                "url": "https://anitamachado.netlify.app/info/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "copyrightText": "<div style=\"text-align: left;font-size: 12px\">\"Aumente seus esforços e sua criatividade ao invés de diminuir suas metas\"</div>\n\n<div style=\"text-align: right;font-size: 9px;font-style: italic\">Mentor milionário</div>\n\n",
