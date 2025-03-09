@@ -91,6 +91,17 @@
             },
             {
                 "type": "Button",
+                "label": "SOBRE",
+                "altText": "",
+                "url": "https://anitamesmotech.com.br/info/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
                 "label": "CERTIFICADOS",
                 "altText": "",
                 "url": "https://anitamesmotech.com.br/Certificados/",
@@ -107,17 +118,6 @@
                 "url": "/https://linktr.ee/anitamesmo.tech",
                 "showIcon": false,
                 "icon": "arrowRightCircle",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
-                "label": "SOBRE",
-                "altText": "",
-                "url": "https://anitamesmotech.com.br/info/",
-                "showIcon": false,
-                "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
