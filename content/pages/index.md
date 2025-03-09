@@ -169,7 +169,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
+          - pt-10
           - pb-10
           - pl-0
           - pr-0
