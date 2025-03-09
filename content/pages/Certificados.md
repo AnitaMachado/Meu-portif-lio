@@ -124,7 +124,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: ESPECIALIZAÇÃO
+        title: ''
         subtitle: ESPECIALIZAÇÃO
         text: |+
 
