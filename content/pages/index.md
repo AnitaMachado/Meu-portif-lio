@@ -171,7 +171,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-10
+          - pt-7
           - pb-10
           - pl-11
           - pr-1
