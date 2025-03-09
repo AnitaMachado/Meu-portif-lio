@@ -100,9 +100,6 @@ sections:
         label: TOTVS Protheus
         url: ''
       - type: Label
-        label: Microsoft PowerPoint
-        url: ''
-      - type: Label
         label: Mapeamento de processos
         url: ''
       - type: Label
