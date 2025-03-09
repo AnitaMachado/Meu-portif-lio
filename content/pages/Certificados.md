@@ -25,7 +25,7 @@ sections:
       - type: ImageBlock
         url: /images/Unisuam.svg
         altText: ''
-        caption: Image one caption
+        caption: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-2.jpg
