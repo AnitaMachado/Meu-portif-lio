@@ -130,7 +130,7 @@ sections:
     showDate: false
     showDescription: false
     showFeaturedImage: true
-    showReadMoreLink: false
+    showReadMoreLink: true
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
