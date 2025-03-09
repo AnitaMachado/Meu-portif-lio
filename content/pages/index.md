@@ -172,7 +172,7 @@ sections:
           - pt-28
           - pb-28
           - pl-3
-          - pr-2
+          - pr-1
         flexDirection: row
         textAlign: left
         margin:
