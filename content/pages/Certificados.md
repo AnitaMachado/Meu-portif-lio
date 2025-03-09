@@ -203,7 +203,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: Formação profissional Arquiteto de Dados
         text: ''
         featuredImage:
           type: ImageBlock
