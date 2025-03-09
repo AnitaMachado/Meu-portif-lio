@@ -176,7 +176,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: 'A importância de '
+        label: A importância de ser uma empresa é orientada à dados
         altText: ''
         url: >-
           https://www.linkedin.com/posts/anitamachado_dados-analytics-analistadedados-activity-7198455987274440705-Ci8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA25X0EBwyj1QnWwsHzWzVSn6aWcKkLqTo0
