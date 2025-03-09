@@ -87,9 +87,6 @@ sections:
       - type: Label
         label: Dax
         url: ''
-      - type: Label
-        label: Kanban
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
