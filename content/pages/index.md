@@ -82,7 +82,7 @@ sections:
         label: Power BI
         url: ''
       - type: Label
-        label: Pancakes
+        label: Power Query
         url: ''
       - type: Label
         label: C++
