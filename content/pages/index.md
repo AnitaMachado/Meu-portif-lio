@@ -129,7 +129,7 @@ sections:
         url: /projects
     showDate: false
     showDescription: false
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: true
     variant: variant-b
     projects:
