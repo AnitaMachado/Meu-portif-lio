@@ -23,3 +23,4 @@ backgroundImage:
 addTitleSuffix: false
 metaTags: []
 ---
+Neste projeto simples trouxe a possíbilidade de realização de controle financeiro de diversos projetos onde o usário precisaria realizar o preenchimento apenas dos campos brancos da base para que cálculos gerenciais fossem gerados.
