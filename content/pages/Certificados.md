@@ -103,7 +103,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
     actions: []
     colors: colors-d
