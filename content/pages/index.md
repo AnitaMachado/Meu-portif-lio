@@ -38,6 +38,8 @@ sections:
     text: >+
       <div style="text-align: left">```
 
+
+
       E este site foi cuidadosamente desenvolvido para te apresentar tecnologia
       através de alguns dos meus projetos.
 
