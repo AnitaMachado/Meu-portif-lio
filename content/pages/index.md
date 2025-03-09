@@ -108,6 +108,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderRadius: none
   - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
