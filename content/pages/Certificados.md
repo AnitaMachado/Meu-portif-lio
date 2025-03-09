@@ -56,7 +56,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-4
+          - pl-5
           - pr-5
         textAlign: center
 metaTags: []
