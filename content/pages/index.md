@@ -129,7 +129,7 @@ sections:
         textAlign: left
         borderRadius: small
         margin:
-          - mr-5
+          - mr-10
           - ml-5
         borderWidth: 1
         borderColor: border-(--theme-primary)
