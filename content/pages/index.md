@@ -128,7 +128,7 @@ sections:
         label: VEJA MAIS
         url: /projects
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
