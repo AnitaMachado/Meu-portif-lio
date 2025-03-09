@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 40
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     title: 'OLÁ, SEJA BEM VINDO!'
     subtitle: 'Eu sou Anita Machado, Analista de Dados e Soluções Digitais.'
