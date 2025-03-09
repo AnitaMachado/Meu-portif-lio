@@ -62,7 +62,7 @@ sections:
           type: ImageBlock
           url: >-
             https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
+          altText: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
           caption: Caption of the image
           elementId: ''
         actions:
