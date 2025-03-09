@@ -188,7 +188,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: 'Formação '
+        subtitle: 'Formação profissional em '
         text: ''
         featuredImage:
           type: ImageBlock
