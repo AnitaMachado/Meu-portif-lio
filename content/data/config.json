@@ -58,7 +58,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/2.png",
-            "altText": "HOME",
+            "altText": "",
             "caption": "",
             "elementId": ""
         }
