@@ -57,7 +57,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/png-transparent-dice-game-dice-game-graphy-playing-card-dice-thumbnail-removebg-preview.png",
+            "url": "/images/2.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
