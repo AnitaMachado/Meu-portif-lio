@@ -25,4 +25,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 10
 addTitleSuffix: true
+socialImage: '/images/1000309925_98e8087f808e71287976cd2eb0e54f99-02_05_2024, 18_01_53.png'
 ---
