@@ -203,7 +203,7 @@ sections:
         padding:
           - pt-24
           - pb-24
-          - pl-5
+          - pl-0
           - pr-1
         textAlign: right
         margin:
