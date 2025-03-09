@@ -110,7 +110,7 @@ sections:
         altText: See all projects
         url: /projects
         showIcon: false
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     projects: []
