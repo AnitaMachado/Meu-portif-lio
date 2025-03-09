@@ -202,7 +202,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: ''
         subtitle: ''
         text: ''
         featuredImage:
