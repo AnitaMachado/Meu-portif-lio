@@ -48,7 +48,7 @@ sections:
     aspectRatio: '4:3'
     showCaption: true
     enableHover: true
-    elementId: teste
+    elementId: ''
     styles:
       self:
         height: auto
