@@ -48,6 +48,14 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         subtitle: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
         text: ''
@@ -68,14 +76,6 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
         elementId: ''
         styles:
           self:
