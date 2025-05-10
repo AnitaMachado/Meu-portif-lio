@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Sobre
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -10,6 +10,22 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: QuoteSection
+    quote: ''
+    name: Este site esta em processo de construção (reestruturação)
+    title: ''
+    colors: colors-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-0
+          - pb-10
+          - pl-4
+          - pr-4
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -39,6 +55,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: ''
   - type: DividerSection
     styles:
       self:
